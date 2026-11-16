@@ -2,6 +2,8 @@
 
 ### 🧑‍💻 Também conhecido como `K112p1`
 
+🌐 **Meu portfólio:** [k112p1esc.github.io](https://k112p1esc.github.io/)
+
 Sou estudante de tecnologia e desenvolvedor em formação, apaixonado por programação, projetos inovadores e pela possibilidade de usar a tecnologia para resolver problemas reais.
 
 Minha jornada na área de tecnologia começou na **ETEC de Guaianazes**, onde cursei o Ensino Médio com habilitação técnica em **Desenvolvimento de Sistemas**. Desde então, venho explorando diferentes tecnologias, desenvolvendo projetos e buscando evoluir cada vez mais como profissional.
